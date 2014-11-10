@@ -1,5 +1,5 @@
 __author__ = 'Gio'
-#Code Eval: Counting Primes
+#Code Eval: Hidden Digits
 import sys
 
 test_cases = open(sys.argv[1], 'r')

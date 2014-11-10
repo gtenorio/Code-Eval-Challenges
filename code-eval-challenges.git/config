@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://gio_tenorio@bitbucket.org/gio_tenorio/code-eval-challenges.git
